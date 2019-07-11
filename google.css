@@ -1,0 +1,85 @@
+header{
+    display: flex;
+    text-align:end;
+}
+body{
+    margin: 0%;
+    padding: 0%;
+}
+footer{
+    background-color: rgb(224, 224, 224);
+    display:flex;
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+    height: 35px;
+    margin: 0%;
+    padding: 0%;
+}
+#body{
+    text-align: center;
+    align-content: center;
+    margin-top: 120px;
+}
+#search{
+    display: block;
+}
+#searchInput{
+    width: 40%;
+    height: 30px;
+    border: solid rgb(180, 174, 174) 1px;
+}
+.inputG{
+    margin: 15px;
+}
+.buttonG{
+    margin: 10px;
+    border: solid rgb(232, 232, 232) 1px;
+    height: 30px;
+    background-color: rgb(232, 232, 232);
+    color: gray;
+}
+
+.Main{
+    font-size: 90px;
+}
+#rightheader{
+    width:100%;
+    text-align:end;
+    margin: 10px;
+    left: 0;
+}
+
+.buttonH{
+    margin-left: 10px;
+    border: solid white 1px;
+    background-color: white;
+    color: gray;
+    font-size: 15px;
+}
+.buttonF{
+    margin-left: 10px;
+    border: solid rgb(224, 224, 224) 1px;
+    background-color: rgb(224, 224, 224);
+    color: gray;
+    margin-top: 10px;
+    font-size: 13px;
+}
+#rightfooter{
+    width:50%;
+    text-align:end;
+    margin-right: 10px;
+}
+
+#leftfooter{
+    width:50%;
+}
+#Inicio{
+    background-color: dodgerblue;
+    color:white;
+    border: solid dodgerblue 1px;
+    height: 30px;
+    font-size: 15px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
